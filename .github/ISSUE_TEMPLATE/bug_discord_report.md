@@ -1,5 +1,5 @@
 ---
-name: Bug Website report
+name: Bug Discord report
 about: Create a report to help us improve about blueprintUE discord
 title: "[BUG] - "
 labels: "bug/discord"

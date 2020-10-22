@@ -1,5 +1,5 @@
 ---
-name: Bug Website report
+name: Bug Render report
 about: Create a report to help us improve about blueprintUE render
 title: "[BUG] - "
 labels: "bug/render"

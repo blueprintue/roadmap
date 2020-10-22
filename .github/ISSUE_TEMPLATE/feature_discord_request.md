@@ -1,5 +1,5 @@
 ---
-name: Feature Website request
+name: Feature Discord request
 about: Suggest an idea for blueprintUE discord
 title: "[FEATURE] - "
 labels: "feature/discord"

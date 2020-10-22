@@ -1,5 +1,5 @@
 ---
-name: Feature Website request
+name: Feature Render request
 about: Suggest an idea for blueprintUE render
 title: "[FEATURE] - "
 labels: "feature/render"

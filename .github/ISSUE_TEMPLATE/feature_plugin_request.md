@@ -1,5 +1,5 @@
 ---
-name: Feature Website request
+name: Feature Plugin request
 about: Suggest an idea for blueprintUE plugin
 title: "[FEATURE] - "
 labels: "feature/plugin"
