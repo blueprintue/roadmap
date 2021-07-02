@@ -1,8 +1,8 @@
 ---
-name: Feature Website request
-about: Suggest an idea for blueprintUE website
-title: "[FEATURE] - "
-labels: "feature/website"
+name: Feature Website
+about: Feature for blueprintUE website
+title: ""
+labels: "website"
 assignees: rancoud
 
 ---

@@ -1,8 +1,8 @@
 ---
-name: Feature Plugin request
-about: Suggest an idea for blueprintUE plugin
-title: "[FEATURE] - "
-labels: "feature/plugin"
+name: Feature Plugin
+about: Feature for blueprintUE plugin
+title: ""
+labels: "plugin"
 assignees: rancoud
 
 ---

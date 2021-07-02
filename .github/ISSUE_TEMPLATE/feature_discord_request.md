@@ -1,8 +1,8 @@
 ---
-name: Feature Discord request
-about: Suggest an idea for blueprintUE discord
-title: "[FEATURE] - "
-labels: "feature/discord"
+name: Feature Discord
+about: Feature for blueprintUE discord
+title: ""
+labels: "discord"
 assignees: rancoud
 
 ---

@@ -1,8 +1,8 @@
 ---
-name: Feature Render request
-about: Suggest an idea for blueprintUE render
-title: "[FEATURE] - "
-labels: "feature/render"
+name: Feature Render
+about: Feature for blueprintUE render
+title: ""
+labels: "render"
 assignees: rancoud
 
 ---
